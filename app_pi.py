@@ -1,3 +1,7 @@
+# Currently installed on Room1 (Light and Fan) and Room2 (Light)
+# You can follow the code below and iterate it for other rooms as well.
+# Pre-requisite: Knowledge of Python and Flask
+
 from flask import Flask, render_template
 import numpy as np
 import RPi.GPIO as GPIO
