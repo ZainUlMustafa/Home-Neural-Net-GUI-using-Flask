@@ -2,7 +2,7 @@
 
 Flask is a very powerful framework of Python. It is meant to do the server side processing and allows displaying info for client in a very presentable way (designed solely using HTML, CSS, and JS). 
 
-I designed a simple GUI using pure web designing and allowed the user to press the button and see the light or fan turn on or off, whose backend controller and processor was Python.
+I designed a simple GUI using pure web designing and allowed the user to press the button and see the light or fan turn on or off, whose backend controller and processor was Python on RPi (I will update this repo with that code).
 
 What is the benefit?
 Well, you can simply collect data and plot graphs using matplotlib, and display it to the user. You can view the same web app on your mobile phone by just entering the IP of your server (192.168.xx.xxx). You can add an AI in it using Keras (TF or Theano). And much more!
